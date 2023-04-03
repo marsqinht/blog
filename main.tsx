@@ -14,9 +14,9 @@ blog({
   theme: "light",
   favicon: "https://yun.dui88.com/mars/avatar/5b6f98b6-b38a-43b8-b080-0e7f0360e6bf.png",
   links: [
-    { title: "Email", url: "mailto:qinhaitaojob@gmail.com" },
-    { title: "GitHub", url: "https://github.com/marsqinht" },
-    // { title: "Zhihu", url: "https://www.zhihu.com/people/qin-hai-tao" },
+    { title: "Email", url: "mailto:qinhaitaojob@gmail.com", target: "_blank" },
+    { title: "GitHub", url: "https://github.com/marsqinht", target: "_blank"  },
+    // { title: "Zhihu", url: "https://www.zhihu.com/people/qin-hai-tao", target: "_blank", icon: <div>11</div>  },
   ],
   // middlewares: [
 
